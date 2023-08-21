@@ -2,6 +2,7 @@
     width: 100%;
     height: 100vh;
     background: url('../../assets/options-bg.jpg') no-repeat center center/cover;
+    /* overflow-x: hidden; */
 }
 
 .options .container {
